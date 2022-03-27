@@ -1,0 +1,30 @@
+[
+  {
+    "name": "可爱",
+    "translate": {
+      "zh-CN": "可爱",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "嗝",
+    "translate": {
+      "zh-CN": "嗝",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "方言",
+    "translate": {
+      "zh-CN": "方言",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "声音",
+    "translate": {
+      "zh-CN": "各种声音",
+      "en-US": ""
+    }
+  }
+]

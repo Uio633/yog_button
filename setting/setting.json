@@ -1,0 +1,56 @@
+{
+  "i18n": false,
+  "neko_mimi": false,
+  "name": {
+    "CN": {
+      "title": "Yog按钮",
+      "fullName": "尤格"
+    },
+    "EN": {
+      "title": "Yog Button",
+      "fullName": "Yog"
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "img/logo.svg",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": "https://space.bilibili.com/690608709"
+  },
+  "link": [
+    {
+      "name": "Hiiro按钮",
+      "url": "https://hiiro.club/",
+      "background": "#F5C1BB"
+    },
+    {
+      "name": "七奈按钮",
+      "url": "https://kaguranana.moe/",
+      "background": "#c4afd0"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "尤格的课外活动教室",
+        "url": "https://space.bilibili.com/1226215187"
+      }
+    ],
+    "info": [
+      "粉丝群："
+    ],
+    "githubUrl": ""
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "Yog_button.png",
+  "CDN": "",
+  "GA_ID": "G-ZEX2QFP0B1"
+}
