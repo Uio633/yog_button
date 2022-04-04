@@ -19,7 +19,7 @@
     "path": "211006尖叫_1.mp3",
     "date": "2022-3-27",
     "translate": {
-      "zh-CN": "尖叫#1",
+      "zh-CN": "尖叫",
       "en-US": ""
     },
     "category": "声音",
@@ -49,7 +49,7 @@
     "path": "211108喷嚏_1.mp3",
     "date": "2022-3-27",
     "translate": {
-      "zh-CN": "喷嚏#1",
+      "zh-CN": "喷嚏",
       "en-US": ""
     },
     "category": "声音",
@@ -133,5 +133,285 @@
       "time": "",
       "url": "https://www.bilibili.com/video/BV1SS4y1D7qW"
     }
+  },
+  {
+    "name": "哎呀",
+    "path": "哎呀.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "哎呀",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "哎呀2",
+    "path": "哎呀（2）.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "哎呀#2",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "唉",
+    "path": "唉.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "唉",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "关你什么事2",
+    "path": "关你什么事（2）.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "关你什么事",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "那 那我挂了",
+    "path": "那 那我挂了.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "那 那我挂了",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "能不能不要烦我啦",
+    "path": "能不能不要烦我啦.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "能不能不要烦我啦",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "哦~喔~瓦嘎达",
+    "path": "哦~喔~瓦嘎达.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "哦~喔~瓦嘎达",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "什么意思呢",
+    "path": "什么意思呢.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "什么意思呢",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "神经病吧（2）",
+    "path": "神经病吧（2）.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "神经病吧",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "喂2",
+    "path": "喂（2）.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "喂",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "喂（3）",
+    "path": "喂（3）.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "喂#2",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "我不知道~",
+    "path": "我不知道~.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "我不知道~",
+      "en-US": ""
+    },
+    "category": "可爱"
+  },
+  {
+    "name": "被塞满（？）的声音",
+    "path": "被塞满（？）的声音.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "被塞满（？）的声音",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "不起床怎么给尤格yog打钱",
+    "path": "不起床怎么给尤格yog打钱.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "不起床怎么给尤格yog打钱",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "给我两拳 快",
+    "path": "给我两拳 快.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "给我两拳 快",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "好想睡觉啊~",
+    "path": "好想睡觉啊~.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "好想睡觉啊~",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "死鬼讨厌",
+    "path": "死鬼讨厌.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "死鬼讨厌",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "完了 阿兹海默",
+    "path": "完了 阿兹海默.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "完了 阿兹海默",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "我是尤格yog（模仿烧0版）",
+    "path": "我是尤格yog（模仿烧0版）.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "我是尤格yog（模仿烧0版）",
+      "en-US": ""
+    },
+    "category": "草生"
+  },
+  {
+    "name": "关你什么事",
+    "path": "关你什么事.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "关你什么事（轻声）",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "讲什么悄悄话",
+    "path": "讲什么悄悄话.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "讲什么悄悄话",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "没有 没有不喜欢呀",
+    "path": "没有 没有不喜欢呀.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "没有 没有不喜欢呀",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "能不能别烦我了",
+    "path": "能不能别烦我了.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "能不能别烦我了",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "神经病吧",
+    "path": "神经病吧.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "神经病吧",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "喂（轻声）",
+    "path": "喂.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "喂（轻声）",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "我回来了",
+    "path": "我回来了.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "我回来了",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "我就是这么喜欢你",
+    "path": "我就是这么喜欢你.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "我就是这么喜欢你",
+      "en-US": ""
+    },
+    "category": "心动向"
+  },
+  {
+    "name": "咳嗽音",
+    "path": "咳嗽音.mp3",
+    "date": "2022-4-4",
+    "translate": {
+      "zh-CN": "咳嗽",
+      "en-US": ""
+    },
+    "category": "声音"
   }
 ]
