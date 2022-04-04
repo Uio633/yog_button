@@ -26,5 +26,19 @@
       "zh-CN": "各种声音",
       "en-US": ""
     }
+  },
+  {
+    "name": "草生",
+    "translate": {
+      "zh-CN": "草生",
+      "en-US": ""
+    }
+  },
+  {
+    "name": "心动向",
+    "translate": {
+      "zh-CN": "心动向",
+      "en-US": ""
+    }
   }
 ]
