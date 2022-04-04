@@ -38,7 +38,7 @@
       }
     ],
     "info": [
-      "粉丝群："
+      "QQ群：894407315"
     ],
     "githubUrl": "https://github.com/Uio633/yog_button"
   },
@@ -51,6 +51,6 @@
     "imgHeight": ""
   },
   "mediaSession": "Yog_button.png",
-  "CDN": "",
-  "GA_ID": "G-ZEX2QFP0B1"
+  "CDN": "https://cdn.jsdelivr.net/gh/Uio633/yog_button@master/public/voices",
+  "GA_ID": "UA-175550578-2"
 }
