@@ -51,6 +51,6 @@
     "imgHeight": ""
   },
   "mediaSession": "Yog_button.png",
-  "CDN": "https://cdn.jsdelivr.net/gh/Uio633/yog_button@master/public/voices",
-  "GA_ID": "UA-175550578-2"
+  "GA_ID": "UA-175550578-2",
+  "CDN": "https://cdn.jsdelivr.net/gh/Uio633/yog_button@master/public/voices"
 }

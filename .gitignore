@@ -21,4 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-node_modules/.cache/eslint/7c30c57f.json
