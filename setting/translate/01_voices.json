@@ -45,6 +45,21 @@
     }
   },
   {
+        "name": "220626尖叫",
+        "path": "220626尖叫.mp3",
+        "date": "2022-7-2",
+        "translate": {
+          "zh-CN": "尖叫#3",
+          "en-US": ""
+        },
+        "category": "声音",
+        "mark": {
+          "title": "【直播回放】空洞骑士#day3 2022年6月26日19点场",
+          "time": "",
+          "url": "https://www.bilibili.com/video/BV16Z4y1i7Sg"
+        }
+  },
+  {
     "name": "211108喷嚏",
     "path": "211108喷嚏_1.mp3",
     "date": "2022-3-27",
